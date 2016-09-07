@@ -1,0 +1,21 @@
+{
+    "name": "zplzpl/yii2-bootstrap-uploader",
+    "description": "yii2 uploader widget.depend bootstrap theme and baidu webuploader.",
+    "type": "composer-plugin",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "zplzpl",
+            "email": "360737395@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "zplzpl\\uploader\\": ""
+        }
+    }
+}
